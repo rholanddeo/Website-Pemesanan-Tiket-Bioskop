@@ -1,7 +1,10 @@
 # Website-Pemesanan-Tiket-Bioskop
 
+artikel : https://www.researchgate.net/publication/360785544_Rancang_Bangun_Aplikasi_Pemesanan_Online_Tiket_Bioskop_Berbasis_Mobile
+
 admin (username : admin, password : admin),
 database : theater_db
+
 
 ![Bioskop21-Pemesanan-Tiket-Theater (3)](https://user-images.githubusercontent.com/121206148/211131428-c172f71d-95e8-4bea-b1bb-e2087d88f509.png)
 ![Bioskop21-Pemesanan-Tiket-Theater (1)](https://user-images.githubusercontent.com/121206148/211131431-ce670976-0e96-442f-b9a3-b7a21a63ce1e.png)
