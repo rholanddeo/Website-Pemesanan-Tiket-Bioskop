@@ -11,5 +11,6 @@ database : theater_db
 ![Bioskop21-Pemesanan-Tiket-Theater (2)](https://user-images.githubusercontent.com/121206148/211131430-113b22eb-94a9-4e5a-ab20-cba09cefa1f3.png)
 ![Login-Pemesanan-Tiket-Bioskop21](https://user-images.githubusercontent.com/121206148/211131530-b3a52e6f-a27c-4bfd-90ab-fe91de02b86b.png)
 ![Admin-Pemesanan-Tiket-Bioskop21](https://user-images.githubusercontent.com/121206148/211131424-63b75599-cc9a-48e1-a05c-ddcab00dd66d.png)
-![Admin-Pemesanan-Tiket-Bioskop21 (2)](https://user-images.githubusercontent.com/121206148/211131434-633f5168-0e5d-4ccf-8160-62f8a05d9d26.png)
 ![Admin-Pemesanan-Tiket-Bioskop21 (1)](https://user-images.githubusercontent.com/121206148/211131435-d6fac633-b1f8-4bdc-bb09-386441d32971.png)
+![Admin-Pemesanan-Tiket-Bioskop21 (2)](https://user-images.githubusercontent.com/121206148/211131434-633f5168-0e5d-4ccf-8160-62f8a05d9d26.png)
+
